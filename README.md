@@ -1,4 +1,4 @@
-# One-Click Login Demo
+# One-Click Login
 
 This is a simple web application that demonstrates one-click login using Gmail and Facebook credentials. Users can log in to the website using their Gmail or Facebook accounts with just a single click.
 
